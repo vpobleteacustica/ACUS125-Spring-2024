@@ -14,7 +14,7 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
   + ACUS095 Fundamentos de Acústica.
 * **Docente responsable:**
   + Dr. Víctor Poblete Ramírez, vpoblete@uach.cl
-* ** Ayudante:**
+* **Ayudante:**
   + Rafael Hayde, rafael.hayde@aumilab.cl
 
 ### Contenidos
