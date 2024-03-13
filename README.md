@@ -60,7 +60,7 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
 
 ### Evaluaciones parciales:
 
-+ **Tarea 1 (T1) de procedimiento teórico-práctico (25%):** Entrega Mayo de 2024.
++ **Tarea 1 (T1) de procedimiento teórico-práctico (25%):** Entrega Abril de 2024.
   Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 1.
 + **Tarea 2 (T2) de procedimiento teórico-práctico (25%):** Entrega Mayo de 2024.
   Los estudiantes desarrollan un trabajo en formato Jupyter Notebook en donde responden preguntas teóricas y resuelven problemas prácticos usando lenguaje Python para manipular y visualizar  parámetros de vibraciones y otros contenidos vistos en la Unidad 2.
